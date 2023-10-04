@@ -1,8 +1,8 @@
 # BIGLIETTO DEL TRENO
 
 - Chiedere all'utente quanti chilometri vuole percorrere
-    - dichiarare una variabile dove salvare il nome
-    - tramite un prompt assegnare il nome dell'utente alla variabile
+    - dichiarare una variabile dove salvare la risposta
+    - tramite un prompt assegnare la risposta alla variabile
 - Chiedere all'utente l'età
     - dichiarare una variabile dove salvare l'età
     - tramite un prompt assegnare l'età alla variabile

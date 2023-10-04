@@ -1,7 +1,11 @@
 // # BIGLIETTO DEL TRENO
 
 // - Chiedere all'utente quanti chilometri vuole percorrere
-//     - dichiarare una variabile dove salvare il nome
+//     - dichiarare una variabile dove salvare la risposta
+//     - tramite un prompt assegnare il nome della risposta alla variabile
+let userKm = prompt ("Quanti chilometri vuoi percorrere?")
+userKm = parseInt(userKm)
+console.log (userKm)
 //     - tramite un prompt assegnare il nome dell'utente alla variabile
 // - Chiedere all'utente l'età
 //     - dichiarare una variabile dove salvare l'età
